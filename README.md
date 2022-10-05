@@ -3,6 +3,7 @@ kubernetes v1.22.3 installed.
 docker     
 terraform.      
 aws cli       
+helm v3.     
 
 
 
