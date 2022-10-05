@@ -1,8 +1,8 @@
 ## pre-requisites
-kubernetes v1.22.3 installed
-docker
-terraform
-aws cli
+kubernetes v1.22.3 installed.    
+docker     
+terraform.      
+aws cli       
 
 
 
